@@ -74,6 +74,8 @@
   👩‍💻 Author
   Samrudhi Shirode
 
-# App preview
-![App Screenshot](images/Screenshot(157.png)
-![App Screenshot] (images/Screenshot(158.png)
+#App Preview
+
+![App Screenshot](images/Screenshot(157).png)
+
+![App Screenshot](images/Screenshot(158).png)
