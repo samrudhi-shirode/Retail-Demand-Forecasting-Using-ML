@@ -1,34 +1,37 @@
   📊 Walmart Retail Demand Forecasting
+  
   📌Project Overview
+  
   This project predicts weekly sales of Walmart stores using Machine Learning.
   The goal is to help retailers forecast demand and manage inventory efficiently.
   
   🧠 Problem Statement
+  
   Retail businesses need accurate demand predictions to avoid:
-  Stock shortages
-  Overstocking
-  Revenue loss
+  -Stock shortages
+  -Overstocking
+  -Revenue loss
   This project builds a machine learning model to predict weekly sales using historical Walmart data.
   
   📂 Dataset
   The dataset includes the following features:
-  🏬 Store
-  📅 Date
-  🎉 Holiday Flag
-  🌡 Temperature
-  ⛽ Fuel Price
-  📉 CPI (Consumer Price Index)
-  👥 Unemployment Rate
-  💰 Weekly Sales (Target)
+  •Store
+  •Date
+  •Holiday Flag
+  •Temperature
+  •Fuel Price
+  •CPI (Consumer Price Index)
+ •Unemployment Rate
+•Weekly Sales (Target)
   
-  ⚙️ Technologies Used
-  Python
-  Pandas
-  NumPy
-  Scikit-Learn
-  Matplotlib
-  Seaborn
-  Streamlit
+⚙️ Technologies Used
+• Python  
+• Pandas  
+• Scikit-learn  
+• Scikit-Learn
+• Matplotlib
+•Seaborn
+•Streamlit
   
   🤖 Machine Learning Model
   The project uses Random Forest Regressor with a Scikit-Learn Pipeline.
